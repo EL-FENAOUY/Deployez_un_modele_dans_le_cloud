@@ -1,8 +1,11 @@
 # Deployez_un_modele_dans_le_cloud
-Une très jeune start-up de l'AgriTech, nommée  "Fruits!", cherche à proposer des solutions innovantes pour la récolte des fruits.<br>
+****
+***CONTEXT***
+****
+Une très jeune start-up de l'AgriTech, nommée  "Fruits!", cherche à proposer des solutions innovantes pour la récolte des fruits.<br><br>
 La volonté de l’entreprise est de préserver la biodiversité des fruits en permettant des traitements spécifiques pour chaque espèce de fruits en développant des robots cueilleurs intelligents.<br>
 Pour la start-up, cette application permettrait de sensibiliser le grand public à la biodiversité des fruits et de mettre en place une première version du moteur de classification des images de fruits.<br>
-Elle souhaite dans un premier temps se faire connaître en mettant à disposition du grand public une application mobile qui permettrait aux utilisateurs de prendre en photo un fruit et d'obtenir des informations sur ce fruit.<br>
+Comme çà , Elle souhaite dans un premier temps se faire connaître en mettant à disposition du grand public une application mobile qui permettrait aux utilisateurs de prendre en photo un fruit et d'obtenir des informations sur ce fruit.<br>
 ****
 ***Mission***
 ****
